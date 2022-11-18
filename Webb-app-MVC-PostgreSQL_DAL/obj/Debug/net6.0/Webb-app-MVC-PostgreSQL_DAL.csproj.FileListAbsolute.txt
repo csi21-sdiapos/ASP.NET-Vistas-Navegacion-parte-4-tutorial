@@ -1,0 +1,14 @@
+C:\Users\javi\source\repos\Webb-app-MVC-PostgreSQl\Webb-app-MVC-PostgreSQL_DAL\bin\Debug\net6.0\Webb-app-MVC-PostgreSQL_DAL.deps.json
+C:\Users\javi\source\repos\Webb-app-MVC-PostgreSQl\Webb-app-MVC-PostgreSQL_DAL\bin\Debug\net6.0\Webb-app-MVC-PostgreSQL_DAL.runtimeconfig.json
+C:\Users\javi\source\repos\Webb-app-MVC-PostgreSQl\Webb-app-MVC-PostgreSQL_DAL\bin\Debug\net6.0\Webb-app-MVC-PostgreSQL_DAL.dll
+C:\Users\javi\source\repos\Webb-app-MVC-PostgreSQl\Webb-app-MVC-PostgreSQL_DAL\bin\Debug\net6.0\Webb-app-MVC-PostgreSQL_DAL.pdb
+C:\Users\javi\source\repos\Webb-app-MVC-PostgreSQl\Webb-app-MVC-PostgreSQL_DAL\obj\Debug\net6.0\Webb-app-MVC-PostgreSQL_DAL.csproj.AssemblyReference.cache
+C:\Users\javi\source\repos\Webb-app-MVC-PostgreSQl\Webb-app-MVC-PostgreSQL_DAL\obj\Debug\net6.0\Webb-app-MVC-PostgreSQL_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javi\source\repos\Webb-app-MVC-PostgreSQl\Webb-app-MVC-PostgreSQL_DAL\obj\Debug\net6.0\Webb-app-MVC-PostgreSQL_DAL.AssemblyInfoInputs.cache
+C:\Users\javi\source\repos\Webb-app-MVC-PostgreSQl\Webb-app-MVC-PostgreSQL_DAL\obj\Debug\net6.0\Webb-app-MVC-PostgreSQL_DAL.AssemblyInfo.cs
+C:\Users\javi\source\repos\Webb-app-MVC-PostgreSQl\Webb-app-MVC-PostgreSQL_DAL\obj\Debug\net6.0\Webb-app-MVC-PostgreSQL_DAL.csproj.CoreCompileInputs.cache
+C:\Users\javi\source\repos\Webb-app-MVC-PostgreSQl\Webb-app-MVC-PostgreSQL_DAL\obj\Debug\net6.0\Webb-app-MVC-PostgreSQL_DAL.dll
+C:\Users\javi\source\repos\Webb-app-MVC-PostgreSQl\Webb-app-MVC-PostgreSQL_DAL\obj\Debug\net6.0\refint\Webb-app-MVC-PostgreSQL_DAL.dll
+C:\Users\javi\source\repos\Webb-app-MVC-PostgreSQl\Webb-app-MVC-PostgreSQL_DAL\obj\Debug\net6.0\Webb-app-MVC-PostgreSQL_DAL.pdb
+C:\Users\javi\source\repos\Webb-app-MVC-PostgreSQl\Webb-app-MVC-PostgreSQL_DAL\obj\Debug\net6.0\Webb-app-MVC-PostgreSQL_DAL.genruntimeconfig.cache
+C:\Users\javi\source\repos\Webb-app-MVC-PostgreSQl\Webb-app-MVC-PostgreSQL_DAL\obj\Debug\net6.0\ref\Webb-app-MVC-PostgreSQL_DAL.dll

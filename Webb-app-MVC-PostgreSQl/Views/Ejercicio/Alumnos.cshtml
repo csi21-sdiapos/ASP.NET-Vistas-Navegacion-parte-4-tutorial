@@ -1,0 +1,29 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewBag.Title = "Lista de Alumnos de ejemplo";
+}
+
+<h1>@ViewBag.Title</h1>
+<br />
+<br />
+@if(Model != null) {
+    using (Html.BeginForm()) {
+        <select id="selAlumnos" onchange="SetAsignatura(this.value)">
+            <option value="0">Selecciona al Alumno deseado</option>
+            @foreach (Webb_app_MVC_PostgreSQL_DAL.Modelos.EjemploAlumno alumnos in Model)
+            {
+                <option value="@alumnos.IdAsignatura">@alumnos.AlumnoNombre</option>
+            }
+        </select>
+
+        <input type="submit" value="Buscar Asignatura" />
+        <input type="hidden" id="IdAsignatura" name="IdAsignatura" value=1/>
+    }
+}
+<script>
+    Function SetAsignatura(id) {
+        document.getElementById("IdAsignatura").value = id;
+    }
+</script>
